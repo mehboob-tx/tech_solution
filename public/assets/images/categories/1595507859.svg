@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .prefix__cls-1,.prefix__cls-2{fill:none}.prefix__cls-2{stroke:#adadad;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__Group_5413" data-name="Group 5413" transform="translate(-991.758 -326)">
+        <g id="prefix__Group_5412" data-name="Group 5412">
+            <path id="prefix__Rectangle_2773" d="M0 0H48V48H0z" class="prefix__cls-1" data-name="Rectangle 2773" transform="translate(991.758 326)"/>
+            <g id="prefix__Group_5411" data-name="Group 5411">
+                <g id="prefix__Horizontal_Rectangle" class="prefix__cls-2" data-name="Horizontal Rectangle" transform="translate(999.758 338)">
+                    <rect width="32" height="24" rx="4"/>
+                    <rect width="30" height="22" x="1" y="1" class="prefix__cls-1" rx="3"/>
+                </g>
+                <path id="prefix__Caminho_2237" d="M1030.784 342.738l-15.026 10.524-15.026-10.524" class="prefix__cls-2" data-name="Caminho 2237"/>
+            </g>
+        </g>
+    </g>
+</svg>
