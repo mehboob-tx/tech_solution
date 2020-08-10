@@ -87,7 +87,7 @@ License: You must have a valid license purchased only from themeforest (the abov
         <div class="row">
             <!-- Logo BEGIN -->
             <div class="col-md-2 col-sm-2">
-                <a class="scroll site-logo" href="#promo-block"><img src="{{ asset('assets/frontend/onepage/img/logo/red.png') }}" alt="Metronic One Page"></a>
+                <a class="scroll site-logo" href="#promo-block"><img src="assets/frontend/onepage/img/logo/red.png" alt="Metronic One Page"></a>
             </div>
             <!-- Logo END -->
 
@@ -118,7 +118,7 @@ License: You must have a valid license purchased only from themeforest (the abov
         <div class="tp-banner" >
             <ul>
                 <li data-transition="fade" data-slotamount="5" data-masterspeed="700" data-delay="9400" class="slider-item-1">
-                    <img src="{{ asset('assets/frontend/onepage/img/silder/slide1.jpg') }}" alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                    <img src="assets/frontend/onepage/img/silder/slide1.jpg" alt="" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                     <div class="tp-caption large_text customin customout start"
                          data-x="center"
                          data-hoffset="0"
@@ -150,7 +150,7 @@ License: You must have a valid license purchased only from themeforest (the abov
                     </div>
                 </li>
                 <li data-transition="fadefromright" data-slotamount="5" data-masterspeed="700" data-delay="9400" class="slider-item-2">
-                    <img src="{{ asset('assets/frontend/onepage/img/silder/Slide2_bg.jpg') }}" alt="slidebg2" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                    <img src="assets/frontend/onepage/img/silder/Slide2_bg.jpg" alt="slidebg2" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
                     <div class="caption lft start"
                          data-y="center"
                          data-voffset="0"
@@ -158,7 +158,7 @@ License: You must have a valid license purchased only from themeforest (the abov
                          data-hoffset="-250"
                          data-speed="600"
                          data-start="500"
-                         data-easing="easeOutBack"><img src="{{ asset('assets/frontend/onepage/img/silder/Slide2_iphone_left.png') }}" alt="">
+                         data-easing="easeOutBack"><img src="assets/frontend/onepage/img/silder/Slide2_iphone_left.png" alt="">
                     </div>
                     <div class="caption lft start"
                          data-y="center"
@@ -167,7 +167,7 @@ License: You must have a valid license purchased only from themeforest (the abov
                          data-hoffset="170"
                          data-speed="600"
                          data-start="1200"
-                         data-easing="easeOutBack"><img src="{{ asset('assets/frontend/onepage/img/silder/Slide2_iphone_right.png') }}" alt="">
+                         data-easing="easeOutBack"><img src="assets/frontend/onepage/img/silder/Slide2_iphone_right.png" alt="">
                     </div>
                     <div class="tp-caption mobi-caption large_bold_white fade"
                          data-x="center"
@@ -246,7 +246,7 @@ License: You must have a valid license purchased only from themeforest (the abov
         <h4>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</h4>
 
         <div class="ab-trio">
-            <img src="{{ asset('assets/frontend/onepage/img/trio.png') }}" alt="" class="img-responsive">
+            <img src="assets/frontend/onepage/img/trio.png" alt="" class="img-responsive">
             <div class="ab-cirlce ab-cirle-blue">
                 <i class="fa fa-code"></i>
                 <strong>Clean Code</strong>
@@ -313,7 +313,7 @@ License: You must have a valid license purchased only from themeforest (the abov
 
         <div class="row">
             <div class="col-md-4 item">
-                <img src="{{ asset('assets/frontend/onepage/img/people/img6-large.jpg') }}" alt="Marcus Doe" class="img-responsive">
+                <img src="assets/frontend/onepage/img/people/img6-large.jpg" alt="Marcus Doe" class="img-responsive">
                 <h3>Marcus Doe</h3>
                 <em>Founder</em>
                 <p>Lorem ipsum dolor amet, tempor ut labore magna tempor dolore</p>
@@ -324,7 +324,7 @@ License: You must have a valid license purchased only from themeforest (the abov
                 </div>
             </div>
             <div class="col-md-4 item">
-                <img src="{{ asset('assets/frontend/onepage/img/people/img7-large.jpg') }}" alt="Elena Taylor" class="img-responsive">
+                <img src="assets/frontend/onepage/img/people/img7-large.jpg" alt="Elena Taylor" class="img-responsive">
                 <h3>Elena Taylor</h3>
                 <em>Designer</em>
                 <p>Lorem ipsum dolor amet, tempor ut labore magna tempor dolore</p>
@@ -335,7 +335,7 @@ License: You must have a valid license purchased only from themeforest (the abov
                 </div>
             </div>
             <div class="col-md-4 item">
-                <img src="{{ asset('assets/frontend/onepage/img/people/img8-large.jpg') }}" alt="Cris Nilson" class="img-responsive">
+                <img src="assets/frontend/onepage/img/people/img8-large.jpg" alt="Cris Nilson" class="img-responsive">
                 <h3>Cris Nilson</h3>
                 <em>Developer</em>
                 <p>Lorem ipsum dolor amet, tempor ut labore magna tempor dolore</p>
@@ -357,8 +357,8 @@ License: You must have a valid license purchased only from themeforest (the abov
     </div>
     <div class="row">
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/2.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/2.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/2.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/2.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -367,8 +367,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/6.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/6.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/6.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/6.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -377,8 +377,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/8.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/8.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/8.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/8.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -387,8 +387,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/3.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/3.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/3.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/3.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -397,8 +397,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/5.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/5.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/5.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/5.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -407,8 +407,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/4.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/4.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/4.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/4.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -417,8 +417,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/1.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/1.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/1.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/1.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -427,8 +427,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/10.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/10.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/10.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/10.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -437,8 +437,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/9.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/9.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/9.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/9.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -447,8 +447,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/7.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/7.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/7.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/7.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -457,8 +457,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/2.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/2.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/2.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/2.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -467,8 +467,8 @@ License: You must have a valid license purchased only from themeforest (the abov
             </a>
         </div>
         <div class="item col-md-2 col-sm-6 col-xs-12">
-            <img src="{{ asset('assets/frontend/onepage/img/portfolio/8.jpg') }}" alt="NAME" class="img-responsive">
-            <a href="{{ asset('assets/frontend/onepage/img/portfolio/8.jpg') }}" class="zoom valign-center">
+            <img src="assets/frontend/onepage/img/portfolio/8.jpg" alt="NAME" class="img-responsive">
+            <a href="assets/frontend/onepage/img/portfolio/8.jpg" class="zoom valign-center">
                 <div class="valign-center-elem">
                     <strong>London City Project</strong>
                     <em>Property</em>
@@ -488,7 +488,7 @@ License: You must have a valid license purchased only from themeforest (the abov
 
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12 text-left">
-                <img src="{{ asset('assets/frontend/onepage/img/choose-us.png') }}" alt="Why to choose us" class="img-responsive">
+                <img src="assets/frontend/onepage/img/choose-us.png" alt="Why to choose us" class="img-responsive">
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 text-left">
                 <div class="panel-group" id="accordion1">
@@ -773,22 +773,22 @@ License: You must have a valid license purchased only from themeforest (the abov
     <div class="container">
         <div class="row">
             <div class="col-md-2 col-sm-3 col-xs-6">
-                <img src="{{ asset('assets/frontend/onepage/img/partners/cisco.png') }}" alt="cisco">
+                <img src="assets/frontend/onepage/img/partners/cisco.png" alt="cisco">
             </div>
             <div class="col-md-2 col-sm-3 col-xs-6">
-                <img src="{{ asset('assets/frontend/onepage/img/partners/walmart.png') }}" alt="walmart">
+                <img src="assets/frontend/onepage/img/partners/walmart.png" alt="walmart">
             </div>
             <div class="col-md-2 col-sm-3 col-xs-6">
-                <img src="{{ asset('assets/frontend/onepage/img/partners/gamescast.png') }}" alt="gamescast">
+                <img src="assets/frontend/onepage/img/partners/gamescast.png" alt="gamescast">
             </div>
             <div class="col-md-2 col-sm-3 col-xs-6">
-                <img src="{{ asset('assets/frontend/onepage/img/partners/spinwokrx.png') }}" alt="spinwokrx">
+                <img src="assets/frontend/onepage/img/partners/spinwokrx.png" alt="spinwokrx">
             </div>
             <div class="col-md-2 col-sm-3 col-xs-6">
-                <img src="{{ asset('assets/frontend/onepage/img/partners/ngreen.png') }}" alt="ngreen">
+                <img src="assets/frontend/onepage/img/partners/ngreen.png" alt="ngreen">
             </div>
             <div class="col-md-2 col-sm-3 col-xs-6">
-                <img src="{{ asset('assets/frontend/onepage/img/partners/vimeo.png') }}" alt="vimeo">
+                <img src="assets/frontend/onepage/img/partners/vimeo.png" alt="vimeo">
             </div>
         </div>
     </div>
@@ -875,32 +875,32 @@ License: You must have a valid license purchased only from themeforest (the abov
 <a href="#promo-block" class="go2top scroll"><i class="fa fa-arrow-up"></i></a>
 
 <!--[if lt IE 9]>
-<script src="{{ asset('assets/global/plugins/respond.min.js') }}"></script>
+<script src="assets/global/plugins/respond.min.js"></script>
 <![endif]-->
 
 <!-- Load JavaScripts at the bottom, because it will reduce page load time -->
 <!-- Core plugins BEGIN (For ALL pages) -->
-<script src="{{ asset('assets/global/plugins/jquery-1.11.0.min.js') }}" type="text/javascript"></script>
-<script src="{{ asset('assets/global/plugins/jquery-migrate-1.2.1.min.js') }}" type="text/javascript"></script>
-<script src="{{ asset('assets/global/plugins/bootstrap/js/bootstrap.min.js') }}" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery-1.11.0.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <!-- Core plugins END (For ALL pages) -->
 
 <!-- BEGIN RevolutionSlider -->
-<script src="{{ asset('assets/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.plugins.min.js') }}" type="text/javascript"></script>
-<script src="{{ asset('assets/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js') }}" type="text/javascript"></script>
-<script src="{{ asset('assets/frontend/onepage/scripts/revo-ini.js') }}" type="text/javascript"></script>
+<script src="assets/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.plugins.min.js" type="text/javascript"></script>
+<script src="assets/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+<script src="assets/frontend/onepage/scripts/revo-ini.js" type="text/javascript"></script>
 <!-- END RevolutionSlider -->
 
 <!-- Core plugins BEGIN (required only for current page) -->
-<script src="{{ asset('assets/global/plugins/fancybox/source/jquery.fancybox.pack.js') }}" type="text/javascript"></script><!-- pop up -->
-<script src="{{ asset('assets/global/plugins/jquery.easing.js') }}"></script>
-<script src="{{ asset('assets/global/plugins/jquery.parallax.js') }}"></script>
-<script src="{{ asset('assets/global/plugins/jquery.scrollTo.min.js') }}"></script>
-<script src="{{ asset('assets/frontend/onepage/scripts/jquery.nav.js') }}"></script>
+<script src="assets/global/plugins/fancybox/source/jquery.fancybox.pack.js" type="text/javascript"></script><!-- pop up -->
+<script src="assets/global/plugins/jquery.easing.js"></script>
+<script src="assets/global/plugins/jquery.parallax.js"></script>
+<script src="assets/global/plugins/jquery.scrollTo.min.js"></script>
+<script src="assets/frontend/onepage/scripts/jquery.nav.js"></script>
 <!-- Core plugins END (required only for current page) -->
 
 <!-- Global js BEGIN -->
-<script src="{{ asset('assets/frontend/onepage/scripts/layout.js') }}" type="text/javascript"></script>
+<script src="assets/frontend/onepage/scripts/layout.js" type="text/javascript"></script>
 <script>
     $(document).ready(function() {
         Layout.init();
