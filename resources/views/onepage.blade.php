@@ -44,21 +44,21 @@ License: You must have a valid license purchased only from themeforest (the abov
     <!-- Fonts END -->
 
     <!-- Global styles BEGIN -->
-    <link href="{{ asset('assets/global/plugins/bootstrap/css/bootstrap.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/global/plugins/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/global/plugins/slider-revolution-slider/rs-plugin/css/settings.css') }}" rel="stylesheet">
+    <link href="assets/global/plugins/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/global/plugins/slider-revolution-slider/rs-plugin/css/settings.css" rel="stylesheet">
     <!-- Global styles END -->
 
     <!-- Page level plugin styles BEGIN -->
-    <link href="{{ asset('assets/global/plugins/fancybox/source/jquery.fancybox.css') }}" rel="stylesheet">
+    <link href="assets/global/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet">
     <!-- Page level plugin styles END -->
 
     <!-- Theme styles BEGIN -->
-    <link href="{{ asset('assets/global/css/components.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/frontend/onepage/css/style.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/frontend/onepage/css/style-responsive.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/frontend/onepage/css/themes/red.css') }}" rel="stylesheet" id="style-color">
-    <link href="{{ asset('assets/frontend/onepage/css/custom.css') }}" rel="stylesheet">
+    <link href="assets/global/css/components.css" rel="stylesheet">
+    <link href="assets/frontend/onepage/css/style.css" rel="stylesheet">
+    <link href="assets/frontend/onepage/css/style-responsive.css" rel="stylesheet">
+    <link href="assets/frontend/onepage/css/themes/red.css" rel="stylesheet" id="style-color">
+    <link href="assets/frontend/onepage/css/custom.css" rel="stylesheet">
 
     <!-- Theme styles END -->
 </head>
