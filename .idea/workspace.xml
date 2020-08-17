@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b8f3a6e-2d31-4386-944b-452d79d0c102" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/onepage.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/onepage.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo_shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eshop" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -147,7 +146,9 @@
       <option name="presentableId" value="Default" />
       <updated>1596797755037</updated>
       <workItem from="1596797756141" duration="4844000" />
-      <workItem from="1597047994874" duration="4664000" />
+      <workItem from="1597047994874" duration="6262000" />
+      <workItem from="1597144204325" duration="606000" />
+      <workItem from="1597235807628" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="css check">
       <created>1597056250860</created>
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597056538574</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="css check">
+      <created>1597057462671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597057462671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,18 +186,22 @@
       <screen x="59" y="27" width="1307" height="741" />
     </state>
     <state x="416" y="198" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser/59.27.1307.741@59.27.1307.741" timestamp="1596817282201" />
-    <state x="251" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1597056537944">
+    <state x="251" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1597057462263">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state x="251" y="27" width="912" height="741" key="CommitChangelistDialog2/59.27.1307.741@59.27.1307.741" timestamp="1597056537944" />
-    <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596798313303">
+    <state x="251" y="27" width="912" height="741" key="CommitChangelistDialog2/59.27.1307.741@59.27.1307.741" timestamp="1597057462263" />
+    <state x="180" y="85" width="1045" height="622" key="DiffContextDialog" timestamp="1597057474176">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl/59.27.1307.741@59.27.1307.741" timestamp="1596798313303" />
-    <state x="307" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597056540854">
+    <state x="180" y="85" width="1045" height="622" key="DiffContextDialog/59.27.1307.741@59.27.1307.741" timestamp="1597057474176" />
+    <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597249806724">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
-    <state x="307" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/59.27.1307.741@59.27.1307.741" timestamp="1597056540854" />
+    <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl/59.27.1307.741@59.27.1307.741" timestamp="1597249806724" />
+    <state x="307" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597057476391">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="307" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/59.27.1307.741@59.27.1307.741" timestamp="1597057476391" />
     <state x="376" y="175" key="run.anything.popup" timestamp="1596799268533">
       <screen x="59" y="27" width="1307" height="741" />
     </state>
